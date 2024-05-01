@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//Localização  no plano carteziano
+
 func main() {
 	var x int
 	var y int
