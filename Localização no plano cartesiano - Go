@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//Localização  no plano carteziano
+//Localização  no plano cartesiano
 
 func main() {
 	var x int
